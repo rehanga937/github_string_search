@@ -13,7 +13,7 @@ Scans all the github repos for which the account is the **owner**.
 - User has to include the secrets.txt and usernames.py files in the input folder.
 - If the files have not been created or if user wants to know the template of usernames.py, just run main.py once, and the templates will be created.
 - secrets.txt - just paste each text item per line (no need "")
-- usernames.py - include the pairs as python strings (include "") - the github username and a personal access token (**New personal access token (classic)**). Make sure the the access token has "repo" permission. ![Screenshot of creation of New personal access token (classic)](images_for_readme/how to create new personal access token.png)
+- usernames.py - include the pairs as python strings (include "") - the github username and a personal access token (**New personal access token (classic)**). Make sure the the access token has "repo" permission. ![Screenshot of creation of New personal access token (classic)](https://github.com/rehanga937/github_string_search/blob/main/images_for_readme/how%20to%20create%20new%20personal%20access%20token.png)
 - Then run main.py. 
 
 ## How 2 Read the Output
